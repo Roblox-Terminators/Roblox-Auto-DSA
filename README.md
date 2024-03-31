@@ -11,7 +11,7 @@ Terminator discord server: https://discord.com/invite/termw
 (This server isn't owned or managed by us)
 
 # Contributing
-Interested in helping / contributing to this cause? Consider pulling this repo. If you want to join as a full dev, give us some backgruond info about yourself, for example your experience with programming. We'd love to have more people who can help our goal ;)
+Interested in helping / contributing to this cause? Consider pulling this repo. If you want to join as a full dev, give us some background info about yourself in a pull request, for example your experience with programming. We'd love to have more people who can help our goal ;)
 
 
 # WE ABIDE BY THE TOS. NOTHING SHOWN HERE BREAKS THE RULES OF GITHUB OR ROBLOX.
